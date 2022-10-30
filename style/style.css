@@ -263,6 +263,7 @@ svg{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 55px;
 }
 .footer a{
     text-decoration: none;
